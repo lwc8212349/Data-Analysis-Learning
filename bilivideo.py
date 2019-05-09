@@ -61,4 +61,4 @@ if __name__ == '__main__':
             except BaseException:
                 print('下载失败')
                 pass
-        time.sleep(int(format(random.randint(2, 8))))   # 设置随机等待时间
+        time.sleep(int(format(random.randint(2, 8))))   # 随机等待时间
