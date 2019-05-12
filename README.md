@@ -1,2 +1,1 @@
-# text
-some attempt
+Record your own learning
